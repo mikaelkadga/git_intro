@@ -14,6 +14,9 @@ Steps:
 	$ git status
 	$ git add .
 	$ git status
+	$ git config --global user.name mikaelkadga
+	$ git config --global user.email mikaelkadga18@gmail.com
+	$ git commit -m "Versi 1 : init, finished readme, intro staging files"
 	```
 
  *[ ] Melakukan penambahan file

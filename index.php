@@ -3,7 +3,7 @@
 		<title>i-Dev Git | Home </title>
 	</head>
 	<body>
-		<h1>Hello Git</h1>
+		<h1>Hello Git haha</h1>
 		<table border="1">
 		<tr>
 			<th><a href="home.php">Home<a/></th> <!--isi base url!-->
