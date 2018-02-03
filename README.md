@@ -27,3 +27,4 @@ Steps:
  > Staging file = file yang sudah di add dan siap di commit
  
  mengapa langit berwarna biru
+ karena saya lapar
